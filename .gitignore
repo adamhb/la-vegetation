@@ -1,3 +1,5 @@
 data/
 .mlhub/
 .ipynb_checkpoints/
+.Rhistory
+gee_example.ipynb
